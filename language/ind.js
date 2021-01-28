@@ -23,7 +23,7 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 BELUM DAFTAR 」*\n\n*cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar affis|17*`
+	return`*「 BELUM DAFTAR 」*\n\n*cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar Ilyasw|12*`
 }
 
 exports.rediregis = () => {
@@ -215,14 +215,14 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *${prefix}clone*
 ╠☞ *${prefix}setppbot*
 ║
-╠══─⊱ ❰ *THANGKS TO* ❱ ⊰─══➤
+╠══─⊱ ❰ *THANKS TO* ❱ ⊰─══➤
 ║
 ╠☞ *AFFIS JUNIANTO*
 ╠☞ *FADHIL GRAPHY*
 ╠☞ *XPTN (AGUNG)*
 ╠☞ *MYBOT TEAM*
 ║
-╰════─⊱  ⸨ *AFFIS* ⸩  ⊰─════╯
+╰════─⊱  ⸨ *ILYASU* ⸩  ⊰─════╯
 `
 }
 
