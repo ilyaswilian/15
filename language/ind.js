@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「 WAIT 」 SEDANG PROSES*`
+	return`*「 WAIT 」 SEDANG DI PROSES YA BEB,SABARAN OKE✓*`
 }
 
 exports.succes = () => {
@@ -67,7 +67,7 @@ exports.bug = () => {
 }
 
 exports.wrongf = () => {
-	return`*format salah/text kosong*`
+	return`*format salah bangke/text kosong anjing*`
 }
 
 exports.clears = () => {
@@ -123,7 +123,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╠☞ *XP* : ${getLevelingXp(sender)}/${reqXp}
 ╠☞ *Level* : ${getLevelingLevel(sender)}
 ╠☞ *User register* : ${_registered.length}
-╰════─⊱  ⸨ *AFFIS* ⸩  ⊰─════╯
+╰════─⊱  ⸨ *ILYASU* ⸩  ⊰─════╯
 
             𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝐞
 ▬▭▬▭▬▭▬▭▬▭▬▭▬
@@ -134,6 +134,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ●⧐ *Ketik ${prefix}bot*
 ●⧐ *Harap Sabar Dengan Bug²nya!*
 ●⧐ *Gunakan Bot Sebaik-baiknya!*
+●⧐ *Gunakan Command BOT Yang Sesuai,Supaya Work-!*
 ▬▭▬▭▬▭▬▭▬▭▬▭▬
 
 ╭══─⊱ ❰ *MAKER MENU* ❱ ⊰─══➤
