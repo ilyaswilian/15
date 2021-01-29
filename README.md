@@ -1,4 +1,4 @@
-Botwasap v3
+Botwasap v3 Ilyasssss
 
 Bayak yang baru
 Check aja sendiri
@@ -12,7 +12,7 @@ If you can help me to translate the bot language please chat me in whatsapp
 |-----------------|
 
 My whatsapp
-wa.me/6282334297175
+wa.me/62895704283153
 
 My Instagram
-https://Instagram.com/affis_saputro123
+https://Instagram.com/cc2061338sdt
